@@ -88,7 +88,8 @@ Para su conveniencia, proporcionamos un resumen visual de los datos que recopila
 
 Usamos los datos recopilados para realizar lo siguiente:
 
-### 1. Prestación de nuestros servicios. UnCo Carpool usa esta información para prestar, personalizar, mantener y mejorar los servicios.
+### 1. Prestación de nuestros servicios. 
+UnCo Carpool usa esta información para prestar, personalizar, mantener y mejorar los servicios.
 Esto incluye el uso de los datos para lo siguiente:
 
 Crear o actualizar cuentas.
