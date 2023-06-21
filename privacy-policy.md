@@ -89,7 +89,6 @@ Para su conveniencia, proporcionamos un resumen visual de los datos que recopila
 Usamos los datos recopilados para realizar lo siguiente:
 
 ### 1. Prestación de nuestros servicios. UnCo Carpool usa esta información para prestar, personalizar, mantener y mejorar los servicios.
-
 Esto incluye el uso de los datos para lo siguiente:
 
 Crear o actualizar cuentas.
@@ -103,8 +102,9 @@ Proporcionar a los usuarios actualizaciones de viajes o entregas, generar recibo
 Realizar las operaciones necesarias para mantener nuestros servicios, incluso para solucionar errores de software y problemas operativos.
 
 UnCo Carpool realiza las actividades anteriores porque son necesarias para cumplir con los términos de nuestros acuerdos con los usuarios, porque son compatibles con dichos usos o porque son relevantes para los intereses legítimos de UnCo Carpool y de sus usuarios.
-### 2. Seguridad. Usamos los datos para mantener la seguridad y la integridad de nuestros servicios y usuarios. Se incluye lo siguiente:
 
+### 2. Seguridad. 
+Usamos los datos para mantener la seguridad y la integridad de nuestros servicios y usuarios. Se incluye lo siguiente:
 Verificar la identidad y el cumplimiento de los requisitos de los usuarios para brindar servicios de transporte o de entregas, incluso a través de la verificación de antecedentes, a fin de evitar que conductores de la App o usuarios poco confiables usen nuestros servicios.
 Además, podemos usar tecnología de reconocimiento facial para procesar fotografías de perfil de usuario, fotografías de identificación u otras fotografías enviadas por los usuarios a fin de evitar el robo de identidad o el uso de nuestros servicios por parte de conductores de la App no autorizados.
 Usar los datos de los dispositivos de conductores de la App para detectar comportamientos de conducción poco segura, como exceder la velocidad o frenar y acelerar bruscamente, e informarles sobre prácticas más seguras. También usamos la información de los dispositivos de los conductores repartidores para verificar el tipo de vehículo que usaron para realizar las entregas.
@@ -113,18 +113,21 @@ Usar las calificaciones, incidentes reportados y otros comentarios de los usuari
 Usar datos del socio de la App (como información de viajes anteriores y tasas de incidentes reportados) y datos del usuario (como información de viajes anteriores, tasas de cancelación e incidentes reportados, información de la cuenta, calificaciones y la ubicación del punto de partida y del destino actual) para predecir y evitar asignaciones que puedan aumentar el riesgo de conflicto (por ejemplo, porque un usuario anteriormente calificó con una estrella a otro).
 Compartir el nombre del usuario, la ubicación, el número de teléfono, los detalles del vehículo y otra información importante con empresas de terceros que apoyan la gestión y la reducción de los conflictos interpersonales que pueden ocurrir entre los usuarios durante un viaje o en el proceso de realizar una entrega.
 UnCo Carpool realiza las actividades anteriores porque son necesarias para cumplir con los términos de nuestros acuerdos con los usuarios o por los intereses de seguridad legítimos de UnCo Carpool, nuestros usuarios y el público en general.
-### 3. Soporte al cliente. UnCo Carpool usa la información recopilada (que puede incluir grabaciones de llamadas) para brindar soporte al cliente, incluso para investigar y abordar las inquietudes de los usuarios, y para controlar y mejorar las respuestas y los procesos de soporte al cliente.
+
+### 3. Soporte al cliente. 
+UnCo Carpool usa la información recopilada (que puede incluir grabaciones de llamadas) para brindar soporte al cliente, incluso para investigar y abordar las inquietudes de los usuarios, y para controlar y mejorar las respuestas y los procesos de soporte al cliente.
 
 UnCo Carpool realiza las actividades anteriores porque son necesarias para cumplir con los términos de nuestros acuerdos con los usuarios o para satisfacer el interés legítimo de UnCo Carpool de monitorear y mejorar sus servicios de soporte al cliente.
 
-### 4. Investigación y desarrollo. Usamos los datos para pruebas, investigaciones, análisis, desarrollo de productos y aprendizaje automático con el fin de mejorar la experiencia del usuario. Esto permite mejorar la seguridad de nuestros servicios, hacerlos más convenientes y fáciles de usar, y desarrollar nuevos servicios y funciones.
+### 4. Investigación y desarrollo. 
+Usamos los datos para pruebas, investigaciones, análisis, desarrollo de productos y aprendizaje automático con el fin de mejorar la experiencia del usuario. Esto permite mejorar la seguridad de nuestros servicios, hacerlos más convenientes y fáciles de usar, y desarrollar nuevos servicios y funciones.
 
 UnCo Carpool realiza las actividades anteriores porque son necesarias para satisfacer los intereses legítimos de UnCo Carpool de mejorar y desarrollar nuevos servicios y funciones.
 
 UnCo Carpool realiza las actividades anteriores porque son necesarias para cumplir con los términos de nuestros acuerdos con los usuarios.
 
-### 5. Marketing y publicidad. UnCo Carpool usa datos (que no sean los de los usuarios invitados) para comercializar sus servicios y los de los conductores de UnCo Carpool. Se incluyen las siguientes actividades:
-
+### 5. Marketing y publicidad.
+UnCo Carpool usa datos (que no sean los de los usuarios invitados) para comercializar sus servicios y los de los conductores de UnCo Carpool. Se incluyen las siguientes actividades:
 Enviar correos electrónicos, mensajes de texto, notificaciones push y mensajes en la app u otras comunicaciones de marketing o publicidad de productos, servicios, funciones, ofertas, promociones, sorteos, noticias y eventos de UnCo Carpool.
 Esto puede incluir el uso de la ubicación, el historial de viajes y pedidos y los datos del dispositivo y de uso para enviar comunicaciones de marketing personalizadas según los intereses y características observados o deducidos de los usuarios. Por ejemplo, podemos enviar notificaciones push que sugieren los destinos o establecimientos favoritos de un usuario o mensajes en la app que ofrecen ahorros o promociones para productos o establecimientos similares a los que el usuario utilizó anteriormente. 
 Mostrar publicidad de UnCo Carpool en apps o sitios web de terceros. Esto incluye usar la ubicación, el historial de viajes y pedidos y los datos del dispositivo y de uso, así como compartir direcciones de correo electrónico cifradas e identificadores de dispositivos o usuarios con conductores publicitarios (como Facebook y TikTok), para personalizar dichos anuncios según los intereses de los usuarios.
@@ -133,11 +136,14 @@ También se incluyen anuncios de otros productos o servicios de terceros que se 
 Asimismo, se incluyen anuncios personalizados según los datos sobre el viaje o la solicitud de entrega actuales, incluida la hora y los servicios solicitados. Por ejemplo, si un usuario solicita un viaje a un supermercado, podemos mostrar anuncios en la app de productos de terceros que pueden estar disponibles en ese supermercado. 
 Medir la efectividad de los anuncios de UnCo Carpool y de los anuncios de terceros que se muestran en las apps de UnCo Carpool o en relación con nuestros servicios.
 UnCo Carpool realiza las actividades anteriores porque son necesarias para satisfacer su interés legítimo de brindar información a los usuarios sobre los servicios y funciones de UnCo Carpool o de sus conductores. 
-### 6. Comunicaciones no comerciales. UnCo Carpool puede usar los datos para enviar encuestas y otras comunicaciones que no tengan el fin de comercializar los servicios o productos de UnCo Carpool o de sus conductores. También podemos enviar comunicaciones a los usuarios sobre elecciones, votaciones, referéndums y otros procesos políticos relacionados con nuestros servicios. Por ejemplo, UnCo Carpool informó a algunos usuarios por correo electrónico sobre medidas de votación o leyes pendientes relacionadas con los servicios de UnCo Carpool en sus áreas.
+
+### 6. Comunicaciones no comerciales. 
+UnCo Carpool puede usar los datos para enviar encuestas y otras comunicaciones que no tengan el fin de comercializar los servicios o productos de UnCo Carpool o de sus conductores. También podemos enviar comunicaciones a los usuarios sobre elecciones, votaciones, referéndums y otros procesos políticos relacionados con nuestros servicios. Por ejemplo, UnCo Carpool informó a algunos usuarios por correo electrónico sobre medidas de votación o leyes pendientes relacionadas con los servicios de UnCo Carpool en sus áreas.
 
 UnCo Carpool realiza las actividades anteriores porque son necesarias para cumplir con los términos de nuestros acuerdos con los usuarios o para satisfacer los intereses legítimos de UnCo Carpool y de sus usuarios de brindarles información sobre los eventos que pueden afectar al uso de los servicios que brinda la empresa.
 
-### 7. Procedimientos y requisitos legales. Usamos datos para investigar o abordar reclamos o disputas relacionados con el uso de los servicios de UnCo Carpool, a fin de cumplir con los requisitos de las leyes, reglamentaciones, licencias o acuerdos de operación vigentes, o en virtud de un procedimiento legal o de una solicitud gubernamental, incluso de la fuerza del orden público.
+### 7. Procedimientos y requisitos legales. 
+Usamos datos para investigar o abordar reclamos o disputas relacionados con el uso de los servicios de UnCo Carpool, a fin de cumplir con los requisitos de las leyes, reglamentaciones, licencias o acuerdos de operación vigentes, o en virtud de un procedimiento legal o de una solicitud gubernamental, incluso de la fuerza del orden público.
 
 UnCo Carpool realiza las actividades anteriores porque son necesarias para satisfacer los intereses legítimos de UnCo Carpool de investigar y de responder los reclamos y las disputas relacionados con el uso de los servicios y las funciones de UnCo Carpool, o para cumplir con los requisitos legales aplicables.
 
